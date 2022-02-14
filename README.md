@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1 align="center">Welcome to simple-calculator 👋</h1>
 <p>
   <a href="#" target="_blank">
