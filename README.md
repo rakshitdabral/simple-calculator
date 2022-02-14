@@ -18,11 +18,9 @@
 
 Give a ⭐️ if this project helped you!
 
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
 =======
 # simple calculator
  
 A Very simple program that first takes user input for the operator section and allow then to perfom minor operations like addition and subtraction
 
->>>>>>> 4f074a0ffbbba405d3195952963ffaffb7b09a4e
+>>>>>>> 
